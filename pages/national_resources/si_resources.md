@@ -3,7 +3,7 @@
 title: Slovenia
 search_exclude: true
 country_code: SI
-contributors: [<!---REPLACE THIS with comma separated list of contributors--->]
+contributors: [Brane Leskošek, Marko Vidak, Nadja Žlender]
 coordinators: [<!---REPLACE THIS with the name of data management coordinators of your ELIXIR node--->]
 
 # Link to other pages in the tool assembly section on the RDMkit by listing the page_id.
@@ -31,20 +31,12 @@ ref_to_main_resources:
 
 # List here tools and resources mainly relevant for the specific country
 national_resources: 
-  - name: <!---REPLACE THIS with the national resources about RDM in life sciences such as local instances of tools, guidelines or regulations--->
-    description:
-    how_to_access: <!--- REPLACE THIS free text to explain if credentials, login, specific affiliations, etc., are needed to access the resource or tool--->
-    instance_of: <!--- REPLACE THIS with the tool name of which this resource is an instance of, taken from the all tools and resources page --->
-    related_pages:
-      tool_assembly: [<!---REPLACE THIS with the page ID of the tool_assembly pages that you want to list here as related pages--->]
-      your_domain: [<!---REPLACE THIS with the page ID of the domain pages that you want to list here as related pages--->]
-      your_role: [<!---REPLACE THIS with the page ID of the your_role pages that you want to list here as related pages--->]
-      your_tasks: [<!---REPLACE THIS with the page ID of the your_tasks pages that you want to list here as related pages--->]
-    url:
+  - name: Elixir E-Learning Platform
+    description: E-learning Platform
+    how_to_access: some courses are available only for registered users.
+    url: https://elixir.mf.uni-lj.si/
     registry:
-      biotools: <!--- DELETE ME if not needed --->
-      fairsharing: <!--- DELETE ME if not needed --->
-      tess: <!--- DELETE ME if not needed --->
+      tess: (https://tess.elixir-europe.org/content_providers/elixir-si-elearning-platfrom-eelp)
 # More information on how to fill in this metadata section can be found here https://rdmkit.elixir-europe.org/page_metadata
 ---
 <!---All the resources added above will appear on the table at the bottom of the page--->
