@@ -12,7 +12,7 @@ coordinators: [Brane Leskošek, Marko Vidak, Nadja Žlender]
 # More information on which page_id you can use can be found at https://rdmkit.elixir-europe.org/website_overview 
 related_pages:
   tool_assembly: [<!---REPLACE THIS with the page ID of the tool_assembly pages that you want to list here as related pages--->]
-
+ 
 training:
   - name: Training in TeSS
     registry: TeSS
